@@ -6,8 +6,8 @@
 
 I'm a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam. I spend a lot of time with chickens and [alpacas](https://www.instagram.com/p/Bsjo44ThRRv/).
 
-- 🎓 I'll be teaching [Machine Learning Systems Design](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html) at Stanford in Jan 2021.
-- 🔭 I'm currently with [Snorkel AI](https://snorkel.ai), a data-first end-to-end platform for developing AI applications.
+- 🎓 I teach [Machine Learning Systems Design](https://cs329s.stanford.edu/) at Stanford. The course will be offered again in Jan 2022.
+- 🔭 I'm currently building a framework for continual and online learning.
 - 📝 I write a lot! I'm the author of [four bestselling Vietnamese books][goodreads]. I'm working on an English book on [machine learning interviews][ml-interviews].
 - 😅 Fun fact: After high school, I went to Brunei for a 3-day vacation which turned into a 3-year trip through Asia, Africa, and South America. During my trip, I worked as a Bollywood extra, a casino hostess, and a street performer.
 
