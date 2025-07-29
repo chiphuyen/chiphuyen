@@ -15,7 +15,7 @@ I'm a writer and computer scientist. I grew up chasing grasshoppers in a small r
 
 I'm best reached via [email](https://huyenchip.com/communication). I'm always open to interesting conversations and collaboration.
 
-[goodreads]: https://www.goodreads.com/author/show/4675230.Huy_n_Chip
+[goodreads]: https://www.goodreads.com/author/show/22327517.Chip_Huyen
 [ml-interviews]: https://huyenchip.com/ml-interviews-book/
 
 ---
