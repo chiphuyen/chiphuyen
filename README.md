@@ -7,7 +7,7 @@
 I'm a writer and computer scientist. I grew up chasing grasshoppers in a small rice-farming village in Vietnam. I spend a lot of time with chickens and [alpacas](https://www.instagram.com/p/Bsjo44ThRRv/).
 
 - 🔭 I'm getting back into building (finally) in robotics!
-- 🔨 I build micro tools to make me more productive. Some of them are public like [GoodAIList](https://goodailist) to help me stay up-to-date with new AI repos, [KilledByGPT](https://killedbygpt.com) to help me think about product defensibility, [Sniffly](https://github.com/chiphuyen/sniffly) for Claude Code analysis, [lazynlp](https://github.com/chiphuyen/lazynlp), and [sotawhat](https://github.com/chiphuyen/sotawhat).
+- 🔨 I build micro tools to make me more productive. Some of them are public like [GoodAIList](https://goodailist.com) to help me stay up-to-date with new AI repos, [KilledByGPT](https://killedbygpt.com) to help me think about product defensibility, [Sniffly](https://github.com/chiphuyen/sniffly) for Claude Code analysis, [lazynlp](https://github.com/chiphuyen/lazynlp), and [sotawhat](https://github.com/chiphuyen/sotawhat).
 - 📝 I write a lot! I'm the author of [AI Engineering](https://amzn.to/3H7RqxJ) and [Designing Machine Learning Systems](https://amzn.to/4mlL8cZ). My book on [machine learning interviews][ml-interviews] is open-sourced and free!
 - 💖 My alternative career would be in storytelling. In a past life, I wrote [four Vietnamese books of stories about people I met around the world][goodreads]. I'm (marginally) co-producing an horror/sci-fi film about pregnancy that I can't wait to share with you!
 - 🎓 I used to teach [Machine Learning Systems Design](https://cs329s.stanford.edu/) at Stanford, which gave me many ideas on teaching and learning.
